@@ -13,7 +13,7 @@ global.pulsa = '088291865530'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'PENTABOT'
+global.namebot = 'Salvabot'
 global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
 global.web = 'https://www.instagram.com/j.rmdhn_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
